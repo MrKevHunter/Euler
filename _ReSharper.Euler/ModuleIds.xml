@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="288D5E40-0513-4538-87BF-5A182B3D6130" ModuleId="Euler7" />
+  <Module PersistentId="62AAC495-D6FC-45EE-AAB4-0BDC7AA84C4F" ModuleId="Euler.Core" />
+  <Module PersistentId="2AE7C9C5-467B-472D-A57B-1A4A512F0B92" ModuleId="Euler3" />
+  <Module PersistentId="83694E81-13F8-43DF-AF6C-7CBAEB40A761" ModuleId="Euler6" />
+  <Module PersistentId="211433FF-FD4D-4A45-8740-5BAF52C4776C" ModuleId="Euler5" />
+  <Module PersistentId="77474D77-67A8-41E5-8484-1F67FBDDFF51" ModuleId="Euler4" />
+  <Module PersistentId="F5041CB2-7310-407D-BE33-2EC3BE6F0542" ModuleId="Euler8" />
+  <Module PersistentId="D24F8E83-0C97-4848-8E1C-2D81965C1A30" ModuleId="Euler10" />
+</Modules>

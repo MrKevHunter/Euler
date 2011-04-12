@@ -1,0 +1,5 @@
+D:\coding\Kata\Euler\Euler8\bin\Debug\Euler8.exe
+D:\coding\Kata\Euler\Euler8\bin\Debug\Euler8.pdb
+D:\coding\Kata\Euler\Euler8\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\coding\Kata\Euler\Euler8\obj\x86\Debug\Euler8.exe
+D:\coding\Kata\Euler\Euler8\obj\x86\Debug\Euler8.pdb

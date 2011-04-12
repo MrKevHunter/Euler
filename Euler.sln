@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler7", "Euler7\Euler7.csproj", "{288D5E40-0513-4538-87BF-5A182B3D6130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler3", "Euler 3\Euler3.csproj", "{2AE7C9C5-467B-472D-A57B-1A4A512F0B92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler4", "Euler 4\Euler4.csproj", "{77474D77-67A8-41E5-8484-1F67FBDDFF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler5", "Euler 5\Euler5.csproj", "{211433FF-FD4D-4A45-8740-5BAF52C4776C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler6", "Euler 6\Euler6.csproj", "{83694E81-13F8-43DF-AF6C-7CBAEB40A761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler22", "Euler 22\Euler22.csproj", "{A7937F05-8E36-4647-ABDD-B55DEDFFB602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Core", "Euler.Core\Euler.Core.csproj", "{62AAC495-D6FC-45EE-AAB4-0BDC7AA84C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler8", "Euler8\Euler8.csproj", "{F5041CB2-7310-407D-BE33-2EC3BE6F0542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler10", "Euler10\Euler10.csproj", "{D24F8E83-0C97-4848-8E1C-2D81965C1A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288D5E40-0513-4538-87BF-5A182B3D6130}.Debug|x86.ActiveCfg = Debug|x86
+		{288D5E40-0513-4538-87BF-5A182B3D6130}.Debug|x86.Build.0 = Debug|x86
+		{288D5E40-0513-4538-87BF-5A182B3D6130}.Release|x86.ActiveCfg = Release|x86
+		{288D5E40-0513-4538-87BF-5A182B3D6130}.Release|x86.Build.0 = Release|x86
+		{2AE7C9C5-467B-472D-A57B-1A4A512F0B92}.Debug|x86.ActiveCfg = Debug|x86
+		{2AE7C9C5-467B-472D-A57B-1A4A512F0B92}.Debug|x86.Build.0 = Debug|x86
+		{2AE7C9C5-467B-472D-A57B-1A4A512F0B92}.Release|x86.ActiveCfg = Release|x86
+		{2AE7C9C5-467B-472D-A57B-1A4A512F0B92}.Release|x86.Build.0 = Release|x86
+		{77474D77-67A8-41E5-8484-1F67FBDDFF51}.Debug|x86.ActiveCfg = Debug|x86
+		{77474D77-67A8-41E5-8484-1F67FBDDFF51}.Debug|x86.Build.0 = Debug|x86
+		{77474D77-67A8-41E5-8484-1F67FBDDFF51}.Release|x86.ActiveCfg = Release|x86
+		{77474D77-67A8-41E5-8484-1F67FBDDFF51}.Release|x86.Build.0 = Release|x86
+		{211433FF-FD4D-4A45-8740-5BAF52C4776C}.Debug|x86.ActiveCfg = Debug|x86
+		{211433FF-FD4D-4A45-8740-5BAF52C4776C}.Debug|x86.Build.0 = Debug|x86
+		{211433FF-FD4D-4A45-8740-5BAF52C4776C}.Release|x86.ActiveCfg = Release|x86
+		{211433FF-FD4D-4A45-8740-5BAF52C4776C}.Release|x86.Build.0 = Release|x86
+		{83694E81-13F8-43DF-AF6C-7CBAEB40A761}.Debug|x86.ActiveCfg = Debug|x86
+		{83694E81-13F8-43DF-AF6C-7CBAEB40A761}.Debug|x86.Build.0 = Debug|x86
+		{83694E81-13F8-43DF-AF6C-7CBAEB40A761}.Release|x86.ActiveCfg = Release|x86
+		{83694E81-13F8-43DF-AF6C-7CBAEB40A761}.Release|x86.Build.0 = Release|x86
+		{A7937F05-8E36-4647-ABDD-B55DEDFFB602}.Debug|x86.ActiveCfg = Debug|x86
+		{A7937F05-8E36-4647-ABDD-B55DEDFFB602}.Debug|x86.Build.0 = Debug|x86
+		{A7937F05-8E36-4647-ABDD-B55DEDFFB602}.Release|x86.ActiveCfg = Release|x86
+		{A7937F05-8E36-4647-ABDD-B55DEDFFB602}.Release|x86.Build.0 = Release|x86
+		{62AAC495-D6FC-45EE-AAB4-0BDC7AA84C4F}.Debug|x86.ActiveCfg = Debug|x86
+		{62AAC495-D6FC-45EE-AAB4-0BDC7AA84C4F}.Debug|x86.Build.0 = Debug|x86
+		{62AAC495-D6FC-45EE-AAB4-0BDC7AA84C4F}.Release|x86.ActiveCfg = Release|x86
+		{62AAC495-D6FC-45EE-AAB4-0BDC7AA84C4F}.Release|x86.Build.0 = Release|x86
+		{F5041CB2-7310-407D-BE33-2EC3BE6F0542}.Debug|x86.ActiveCfg = Debug|x86
+		{F5041CB2-7310-407D-BE33-2EC3BE6F0542}.Debug|x86.Build.0 = Debug|x86
+		{F5041CB2-7310-407D-BE33-2EC3BE6F0542}.Release|x86.ActiveCfg = Release|x86
+		{F5041CB2-7310-407D-BE33-2EC3BE6F0542}.Release|x86.Build.0 = Release|x86
+		{D24F8E83-0C97-4848-8E1C-2D81965C1A30}.Debug|x86.ActiveCfg = Debug|x86
+		{D24F8E83-0C97-4848-8E1C-2D81965C1A30}.Debug|x86.Build.0 = Debug|x86
+		{D24F8E83-0C97-4848-8E1C-2D81965C1A30}.Release|x86.ActiveCfg = Release|x86
+		{D24F8E83-0C97-4848-8E1C-2D81965C1A30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

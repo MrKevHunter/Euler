@@ -1,0 +1,7 @@
+D:\coding\Kata\Euler\Euler10\bin\Debug\Euler10.exe
+D:\coding\Kata\Euler\Euler10\bin\Debug\Euler10.pdb
+D:\coding\Kata\Euler\Euler10\bin\Debug\Euler.Core.dll
+D:\coding\Kata\Euler\Euler10\bin\Debug\Euler.Core.pdb
+D:\coding\Kata\Euler\Euler10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\coding\Kata\Euler\Euler10\obj\x86\Debug\Euler10.exe
+D:\coding\Kata\Euler\Euler10\obj\x86\Debug\Euler10.pdb
