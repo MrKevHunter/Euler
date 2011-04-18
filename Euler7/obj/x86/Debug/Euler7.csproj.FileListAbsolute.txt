@@ -1,7 +1,0 @@
-D:\coding\Kata\Euler\Euler7\bin\Debug\Euler7.exe
-D:\coding\Kata\Euler\Euler7\bin\Debug\Euler7.pdb
-D:\coding\Kata\Euler\Euler7\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\coding\Kata\Euler\Euler7\obj\x86\Debug\Euler7.exe
-D:\coding\Kata\Euler\Euler7\obj\x86\Debug\Euler7.pdb
-D:\coding\Kata\Euler\Euler7\bin\Debug\Euler.Core.dll
-D:\coding\Kata\Euler\Euler7\bin\Debug\Euler.Core.pdb

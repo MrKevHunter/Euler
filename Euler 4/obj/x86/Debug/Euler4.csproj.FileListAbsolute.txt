@@ -1,6 +1,0 @@
-D:\coding\Kata\Euler\Euler 4\bin\Debug\Euler 4.exe
-D:\coding\Kata\Euler\Euler 4\bin\Debug\Euler 4.pdb
-D:\coding\Kata\Euler\Euler 4\bin\Debug\nunit.framework.xml
-D:\coding\Kata\Euler\Euler 4\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\coding\Kata\Euler\Euler 4\obj\x86\Debug\Euler 4.exe
-D:\coding\Kata\Euler\Euler 4\obj\x86\Debug\Euler 4.pdb

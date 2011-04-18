@@ -1,5 +1,0 @@
-D:\coding\Kata\Euler\Euler.Core\bin\Debug\Euler.Core.dll
-D:\coding\Kata\Euler\Euler.Core\bin\Debug\Euler.Core.pdb
-D:\coding\Kata\Euler\Euler.Core\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\coding\Kata\Euler\Euler.Core\obj\x86\Debug\Euler.Core.dll
-D:\coding\Kata\Euler\Euler.Core\obj\x86\Debug\Euler.Core.pdb

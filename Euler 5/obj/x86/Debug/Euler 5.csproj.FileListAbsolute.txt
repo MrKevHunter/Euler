@@ -1,9 +1,0 @@
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\bin\Debug\Euler 5.exe
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\bin\Debug\Euler 5.pdb
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\bin\Debug\nunit.framework.dll
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\bin\Debug\nunit.mocks.dll
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\bin\Debug\pnunit.framework.dll
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\bin\Debug\nunit.framework.xml
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\obj\x86\Debug\Euler 5.exe
-D:\coding\Kata\Euler 5\Euler 5\Euler 5\obj\x86\Debug\Euler 5.pdb
