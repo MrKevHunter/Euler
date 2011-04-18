@@ -19,7 +19,8 @@
       <File id="288D5E40-0513-4538-87BF-5A182B3D6130/f:Program.cs" caret="0" fromTop="0" />
       <File id="F5041CB2-7310-407D-BE33-2EC3BE6F0542/f:Program.cs" caret="0" fromTop="0" />
       <File id="4C0DEFD3-4D23-487C-9810-43D68DA0C26E/f:Program.cs" caret="115" fromTop="5" />
-      <File id="A54FA81F-EF61-43A8-84F3-1EDE99D2287D/f:Program.cs" caret="1534" fromTop="17" />
+      <File id="A54FA81F-EF61-43A8-84F3-1EDE99D2287D/f:Program.cs" caret="1135" fromTop="7" />
+      <File id="BB3F7B17-7E03-442C-98D3-57465A840161/f:Program.cs" caret="306" fromTop="13" />
     </RecentFiles>
     <RecentEdits>
       <File id="2AE7C9C5-467B-472D-A57B-1A4A512F0B92/f:Program.cs" caret="572" fromTop="21" />
@@ -50,6 +51,7 @@
       <File id="A54FA81F-EF61-43A8-84F3-1EDE99D2287D/f:Program.cs" caret="1648" fromTop="16" />
       <File id="A54FA81F-EF61-43A8-84F3-1EDE99D2287D/f:Program.cs" caret="2234" fromTop="18" />
       <File id="A54FA81F-EF61-43A8-84F3-1EDE99D2287D/f:Program.cs" caret="2626" fromTop="32" />
+      <File id="BB3F7B17-7E03-442C-98D3-57465A840161/f:Program.cs" caret="305" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -67,8 +69,8 @@
     <ItemStatistics item="Default">
       <Item value="new" priority="3" />
       <Item value="elementAt" priority="1" />
-      <Item value="cw" priority="4" />
-      <Item value="Console`0" priority="2" />
+      <Item value="cw" priority="5" />
+      <Item value="Console`0" priority="3" />
       <Item value="string" priority="1" />
       <Item value="for" priority="2" />
       <Item value="NotFiniteNumberException`0" priority="1" />
@@ -109,6 +111,7 @@
       <Item value="jumpList" priority="4" />
       <Item value="number" priority="4" />
       <Item value="break" priority="0" />
+      <Item value="Math`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Euler.Core.SieveOfEratosthenes">
       <Item value="Primes`0" priority="1" />
@@ -119,7 +122,7 @@
       <Item value="AsParallel`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Console">
-      <Item value="ReadLine`0" priority="2" />
+      <Item value="ReadLine`0" priority="3" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
       <Item value="Length" priority="1" />
@@ -145,6 +148,9 @@
     <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
       <Item value="ContainsKey`0" priority="1" />
       <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
