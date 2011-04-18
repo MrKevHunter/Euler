@@ -7,4 +7,7 @@
   <Module PersistentId="77474D77-67A8-41E5-8484-1F67FBDDFF51" ModuleId="Euler4" />
   <Module PersistentId="F5041CB2-7310-407D-BE33-2EC3BE6F0542" ModuleId="Euler8" />
   <Module PersistentId="D24F8E83-0C97-4848-8E1C-2D81965C1A30" ModuleId="Euler10" />
+  <Module PersistentId="A7937F05-8E36-4647-ABDD-B55DEDFFB602" ModuleId="Euler22" />
+  <Module PersistentId="4C0DEFD3-4D23-487C-9810-43D68DA0C26E" ModuleId="Euler12" />
+  <Module PersistentId="A54FA81F-EF61-43A8-84F3-1EDE99D2287D" ModuleId="Euler14" />
 </Modules>
