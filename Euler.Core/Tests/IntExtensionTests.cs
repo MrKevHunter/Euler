@@ -11,7 +11,7 @@ namespace Euler.Core.Tests
         [Test]
         public void TestForPerfectNumber()
         {
-            IEnumerable<int> enumerable = 28.GetDivisors();
+            IEnumerable<int> enumerable = 28.GetProperDivisors();
             Assert.That(enumerable.Contains(1));
             Assert.That(enumerable.Contains(2));
             Assert.That(enumerable.Contains(4));

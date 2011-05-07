@@ -47,7 +47,7 @@ namespace Euler.Core.Extensions
         /// </param>
         /// <returns>
         /// </returns>
-        public static IEnumerable<int> GetDivisors(this int input)
+        public static IEnumerable<int> GetProperDivisors(this int input)
         {
             yield return 1;
             for (int i = 2; i <= input/2; i++)
@@ -69,7 +69,7 @@ namespace Euler.Core.Extensions
         /// </returns>
         public static DivisorNumberType GetDivisorNumberType(this int input)
         {
-            int result = input.GetDivisors().Sum();
+            int result = input.GetProperDivisors().Sum();
 
             if (result == input)
             {
