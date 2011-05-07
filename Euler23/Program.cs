@@ -23,20 +23,17 @@ namespace Euler23
         /// <summary>
         /// The main.
         /// </summary>
-        /// <param name="args">
-        /// The args.
-        /// </param>
-        private static void Main(string[] args)
+        private static void Main()
         {
             int[] abundantNumbers = GetAllAbundantNumbers().ToArray();
 
-            int total = GetSumOfNonIenumerables(abundantNumbers).Sum();
+            int total = GetSumOfIntegersWhichAreNotTheSumOfTwoAbundantNumbers(abundantNumbers).Sum();
 
             Console.WriteLine("Total is " + total);
             Console.ReadLine();
         }
 
-        private static IEnumerable<int> GetSumOfNonIenumerables(int[] abundantNumbers)
+        private static IEnumerable<int> GetSumOfIntegersWhichAreNotTheSumOfTwoAbundantNumbers(int[] abundantNumbers)
         {
             for (int i = 1; i <= 28123; i++)
             {
