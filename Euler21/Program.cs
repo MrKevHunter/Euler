@@ -9,9 +9,12 @@ namespace Euler21
         private static void Main(string[] args)
         {
             int total = 0;
-            for (int i = 0; i < 10000 && IsAmicableNumber(i); i++)
+            for (int i = 0; i < 10000 ; i++)
             {
-                total += i;
+                if (IsAmicableNumber(i))
+                {
+                    total += i;
+                }
             }
             Console.WriteLine("The total is: {0}", total);
             Console.ReadLine();
