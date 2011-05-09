@@ -32,6 +32,8 @@ namespace Euler.Core
                     yield return i;
         }
 
+   
+
         public static bool IsPrime(int candidate)
         {
             // Test whether the parameter is a prime number.

@@ -25,6 +25,8 @@ namespace Euler23
         /// </summary>
         private static void Main()
         {
+
+    
             int[] abundantNumbers = GetAllAbundantNumbers().ToArray();
 
             int total = GetSumOfIntegersWhichAreNotTheSumOfTwoAbundantNumbers(abundantNumbers).Sum();
@@ -51,29 +53,18 @@ namespace Euler23
 
         }
 
-        /// <summary>
-        /// The is sum of two abundant numbers.
-        /// </summary>
-        /// <param name="abundantNumbers">
-        /// The abundant numbers.
-        /// </param>
-        /// <param name="target">
-        /// The target.
-        /// </param>
-        /// <returns>
-        /// The is sum of two abundant numbers.
-        /// </returns>
+ 
         private static bool IsSumOfTwoAbundantNumbers(int[] abundantNumbers, int target)
         {
-            for (int j = 0; j < abundantNumbers.Length; j++)
+            for (int lhs = 0; lhs < abundantNumbers.Length; lhs++)
             {
-                if (j>target)
+                if (lhs>target)
                 {
                     return false;
                 }
-                for (int k = j; k < abundantNumbers.Length; k++)
+                for (int rhs = lhs; rhs < abundantNumbers.Length; rhs++)
                 {
-                    int total = abundantNumbers[j] + abundantNumbers[k];
+                    int total = abundantNumbers[lhs] + abundantNumbers[rhs];
                     if (total == target)
                     {
                         return true;

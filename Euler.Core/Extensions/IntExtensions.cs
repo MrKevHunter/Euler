@@ -8,6 +8,7 @@
 // --------------------------------------------------------------------------------------------------------------------
 
 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -21,12 +22,12 @@ namespace Euler.Core.Extensions
         /// <summary>
         /// The deficient.
         /// </summary>
-        Deficient, 
+        Deficient,
 
         /// <summary>
         /// The abundent.
         /// </summary>
-        Abundent, 
+        Abundent,
 
         /// <summary>
         /// The perfect.
@@ -39,22 +40,37 @@ namespace Euler.Core.Extensions
     /// </summary>
     public static class IntExtensions
     {
-        /// <summary>
-        /// The get divisors.
-        /// </summary>
-        /// <param name="input">
-        /// The input.
-        /// </param>
-        /// <returns>
-        /// </returns>
+        public static bool IsPrime(this int value)
+        {
+            return SieveOfEratosthenes.IsPrime(value);
+        }
+
+
         public static IEnumerable<int> GetProperDivisors(this int input)
         {
             yield return 1;
-            for (int i = 2; i <= input/2; i++)
+            for (int i = 2; i <= input / 2; i++)
+            {
+                if (input % i == 0)
+                {
+                    yield return i;
+                }
+            }
+        }
+
+        public static IEnumerable<int> GetProperDivisors2(this int input)
+        {
+            var max = (int) Math.Sqrt(input);
+            yield return 1;
+            for (int i = 2; i <= max; ++i)
             {
                 if (input%i == 0)
                 {
                     yield return i;
+                    if (i != max)
+                    {
+                        yield return input/i;
+                    }
                 }
             }
         }
