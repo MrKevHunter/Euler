@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler21", "Euler21\Euler21.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler25", "Euler25\Euler25.csproj", "{2A4CFD7A-6BB0-4104-B383-D34E739C8A26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler24", "Euler24\Euler24.csproj", "{DA5ADBD7-D011-47C0-AAAD-0B95DE6D95E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler9", "Euler9\Euler9.csproj", "{4158A57A-23F9-40BE-A972-FA0286976396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -103,6 +107,14 @@ Global
 		{2A4CFD7A-6BB0-4104-B383-D34E739C8A26}.Debug|x86.Build.0 = Debug|x86
 		{2A4CFD7A-6BB0-4104-B383-D34E739C8A26}.Release|x86.ActiveCfg = Release|x86
 		{2A4CFD7A-6BB0-4104-B383-D34E739C8A26}.Release|x86.Build.0 = Release|x86
+		{DA5ADBD7-D011-47C0-AAAD-0B95DE6D95E1}.Debug|x86.ActiveCfg = Debug|x86
+		{DA5ADBD7-D011-47C0-AAAD-0B95DE6D95E1}.Debug|x86.Build.0 = Debug|x86
+		{DA5ADBD7-D011-47C0-AAAD-0B95DE6D95E1}.Release|x86.ActiveCfg = Release|x86
+		{DA5ADBD7-D011-47C0-AAAD-0B95DE6D95E1}.Release|x86.Build.0 = Release|x86
+		{4158A57A-23F9-40BE-A972-FA0286976396}.Debug|x86.ActiveCfg = Debug|x86
+		{4158A57A-23F9-40BE-A972-FA0286976396}.Debug|x86.Build.0 = Debug|x86
+		{4158A57A-23F9-40BE-A972-FA0286976396}.Release|x86.ActiveCfg = Release|x86
+		{4158A57A-23F9-40BE-A972-FA0286976396}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
